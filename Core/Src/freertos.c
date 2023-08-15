@@ -139,6 +139,7 @@ void MX_FREERTOS_Init(void) {
   /* USER CODE END RTOS_TIMERS */
 
   /* USER CODE BEGIN RTOS_QUEUES */
+	
   /* add queues, ... */
   xQueueHandle1 = xQueueCreate(3, sizeof(Data_t));
 
