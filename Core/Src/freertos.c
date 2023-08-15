@@ -213,6 +213,7 @@ void vReceiverTask(void *argument)
 	}
 }
 
+
 /* USER CODE BEGIN Header_vSenderTask */
 /**
 * @brief Function implementing the sender1 thread.
