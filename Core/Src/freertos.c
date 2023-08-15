@@ -144,6 +144,7 @@ void MX_FREERTOS_Init(void) {
   /* USER CODE END RTOS_QUEUES */
 
   /* Create the thread(s) */
+	
   /* creation of receiver */
   receiverHandle = osThreadNew(vReceiverTask, NULL, &receiver_attributes);
 
