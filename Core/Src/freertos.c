@@ -126,6 +126,7 @@ void MX_FREERTOS_Init(void) {
   /* USER CODE END RTOS_MUTEX */
 
   /* Create the semaphores(s) */
+	
   /* creation of myBinarySem01 */
   myBinarySem01Handle = osSemaphoreNew(1, 1, &myBinarySem01_attributes);
 
