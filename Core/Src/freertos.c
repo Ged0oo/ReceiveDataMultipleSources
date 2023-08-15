@@ -100,6 +100,7 @@ const osSemaphoreAttr_t myBinarySem01_attributes = {
 };
 
 /* Private function prototypes -----------------------------------------------*/
+
 /* USER CODE BEGIN FunctionPrototypes */
 
 
