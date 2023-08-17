@@ -6,7 +6,6 @@
  * Created on February 16, 2023, 8:41 PM
  */
 
-
 #ifndef __GPIO_CONFIG_H__
 #define __GPIO_CONFIG_H__
 
