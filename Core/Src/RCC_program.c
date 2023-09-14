@@ -239,4 +239,3 @@ static void MRCC_voidBus_Prescaler(RCC_Config_t *Copy_u8RCC_Config)
 	}
 }
 
-
