@@ -12,7 +12,6 @@
 #include "RCC_private.h"
 
 
-
 RCC_Config_t RCC_obj =
 {
 	.ClockSource = CLOCK_SOURCE_TYPE,
