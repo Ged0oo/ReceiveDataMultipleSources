@@ -238,4 +238,3 @@ static void MRCC_voidBus_Prescaler(RCC_Config_t *Copy_u8RCC_Config)
 		RCC->CFGR |= ((Copy_u8RCC_Config->Prescaler.ABP2_Prescaler) << 11);
 	}
 }
-
