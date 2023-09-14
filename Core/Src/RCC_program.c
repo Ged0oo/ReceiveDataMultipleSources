@@ -21,7 +21,6 @@ RCC_Config_t RCC_obj =
 };
 
 
-
 static void MRCC_voidClockSource(uint8_t Copy_u8xClock);
 static void MRCC_voidBus_Prescaler(RCC_Config_t *Copy_u8RCC_Config);
 static void MRCC_voidPLL_Mul(uint8_t Copy_u8xMul_Factor);
